@@ -1,0 +1,52 @@
+
+Travail 1 :
+
+
+1) Base de données :
+
+Nom : pagination 
+Login : root
+Pwd : ''
+host : localhost 
+
+
+2) db.php :
+
+Connexion avec mysqli 
+Exécution
+Recherche : fetch 
+
+3) index.php : 
+
+Affichage
+Pagination 
+Formulaire 
+
+4) ajouter.php :
+
+Requête sql d'ajout 
+Redirection 
+
+---------------------------------------------------------------------
+
+Travail 2 :
+
+1) televerser.php : 
+Contient le formulaire pour séléctionner l'image à uploader
+La méthode utilisée est POST 
+
+2) uploader.php : 
+Ce fichier contient le script php pour tester le type, la taille et l'existence du fichier à uploader
+- Il y'a un script pour tester le type de l'image
+- Un script pour tester la taille de l'image 
+- Un autre script pour tester l'existence de l'image ou non 
+
+3) Base de données : fichier 
+
+Sauvegarder (nom, chemin, date de televersement) dans la table fichier
+
+4) index : 
+
+Parcourir la liste des images de la table fichier
+  
+
