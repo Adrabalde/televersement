@@ -15,6 +15,9 @@ host : localhost
 Connexion avec mysqli 
 Exécution
 Recherche : fetch 
+(https://user-images.githubusercontent.com/82780976/159727721-a992def7-74a9-43b5-91e8-6a509259e412.PNG)
+
+
 
 3) index.php : 
 
@@ -33,14 +36,6 @@ Travail 2 :
 
 1) televerser.php : 
 Contient le formulaire pour séléctionner l'image à uploader
-
-![pagination](https://user-images.githubusercontent.com/82780976/159727721-a992def7-74a9-43b5-91e8-6a509259e412.PNG)
-
-
-
-
-![pagination](https://user-images.githubusercontent.com/82780976/159727721-a992def7-74a9-43b5-91e8-6a509259e412.PNG)
-
 La méthode utilisée est POST 
 
 2) uploader.php : 
